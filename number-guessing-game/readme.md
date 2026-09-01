@@ -50,7 +50,10 @@ Correct! The number was 37.
 You got it in 3 attempts.
 ```
 
+<img width="1920" height="1020" alt="game-demo-1" src="https://github.com/user-attachments/assets/91beca9b-2280-44c9-aeee-3f6b42aafb6d" />
 
+
+<img width="1920" height="1020" alt="game-demo-2" src="https://github.com/user-attachments/assets/2d4a3ed5-346d-49f9-8aba-653021267202" />
 
 ---
 

@@ -38,10 +38,10 @@ gcc -o calculator calculator.c
 
 ```
 === Simple Calculator ===
-Enter first number: 5
+Enter first number: 1
 Enter an operator (+, -, *, /): +
-Enter second number: 3
-5.00 + 3.00 = 8.00
+Enter second number: 57
+1.00 + 57.00 = 58.00
 ```
 
 <img width="1920" height="1020" alt="calculator" src="https://github.com/user-attachments/assets/8d721283-e6fe-435b-9c90-f724511f5d74" />

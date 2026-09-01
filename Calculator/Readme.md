@@ -133,16 +133,7 @@ checked explicitly before dividing.
 
 </details>
 
----
 
-## 🌱 Ideas to Extend This
-
-- [ ] Add `%` modulus and `^` power operators
-- [ ] Loop so the user can calculate repeatedly without restarting
-- [ ] Validate input (what if they type a letter instead of a number?)
-- [ ] Refactor into functions instead of one big `main()`
-
----
 
 <div align="center">
 

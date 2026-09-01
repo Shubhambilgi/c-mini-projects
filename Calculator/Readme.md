@@ -45,7 +45,7 @@ Enter second number: 3
 ```
 
 <div align="center">
-<img src="demo.png" alt="Calculator demo" width="500">
+<img src="[demo.png](https://github.com/Shubhambilgi/c-mini-projects/blob/main/Calculator/Screenshot%202026-09-01%20130153.png)" alt="Calculator demo" width="500">
 </div>
 
 ---

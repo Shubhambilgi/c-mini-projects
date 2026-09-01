@@ -44,9 +44,8 @@ Enter second number: 3
 5.00 + 3.00 = 8.00
 ```
 
-<div align="center">
-<img src="[demo.png](https://github.com/Shubhambilgi/c-mini-projects/blob/main/Calculator/Screenshot%202026-09-01%20130153.png)" alt="Calculator demo" width="500">
-</div>
+<img width="1920" height="1020" alt="calculator" src="https://github.com/user-attachments/assets/8d721283-e6fe-435b-9c90-f724511f5d74" />
+
 
 ---
 
